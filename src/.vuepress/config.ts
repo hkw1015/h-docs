@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   dest: "./dist",
 
-  base: '/./',
+  base: '/',
 
   title: "程序员H",
 
